@@ -1,3 +1,4 @@
+# Num 5 Dictionary
 # Dictionary containing usernames as keys and passwords as values
 user_credentials = {
     "user1": "password1",
